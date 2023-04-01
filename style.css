@@ -16,6 +16,7 @@
 }
 
 .outer-wrap{
+    margin-top: 20px;
     width: 100%;
     min-height: 100vh;
     background-color: #F5F7FA;
